@@ -15,7 +15,7 @@
         <Button Height="42" Margin="-571.8,296,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="49" Click="Button_Click_1">
             <Image Height="38" Source="Image1.png" Stretch="Fill" Width="46" RenderTransformOrigin="0.5,0.5">
                 <Image.RenderTransform>
-                    <TransformGroup>
+                    <TransformGroup> 
                         <ScaleTransform/>
                         <SkewTransform/>
                         <RotateTransform Angle="0.012"/> 
